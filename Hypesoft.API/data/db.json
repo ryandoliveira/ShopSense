@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "id": "c2",
+      "name": "Pants"
+    },
+    {
+      "id": "c3",
+      "name": "T-Shirts"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Linen Shirt",
+      "description": "Light linen",
+      "price": 45,
+      "quantity": 70,
+      "categoryId": null,
+      "image": "/images/p1.jpg",
+      "createdAt": "2024-06-29T00:00:00Z",
+      "updatedAt": "2025-09-04T00:45:00.146Z"
+    },
+    {
+      "id": "p2",
+      "name": "Jeans Jacket",
+      "description": "Blue jeans",
+      "price": 65,
+      "quantity": 70,
+      "categoryId": "c2",
+      "image": "/images/p2.jpg",
+      "createdAt": "2024-06-29T00:00:00Z",
+      "updatedAt": "2024-06-29T00:00:00Z"
+    },
+    {
+      "id": "p3",
+      "name": "Black T-Shirt",
+      "description": "Cotton",
+      "price": 20,
+      "quantity": 8,
+      "categoryId": "c3",
+      "image": "/images/p5.jpg",
+      "createdAt": "2024-06-27T00:00:00Z",
+      "updatedAt": "2024-06-27T00:00:00Z"
+    }
+  ]
+}

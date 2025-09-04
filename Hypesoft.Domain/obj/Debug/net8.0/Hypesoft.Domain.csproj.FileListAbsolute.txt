@@ -1,0 +1,11 @@
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\bin\Debug\net8.0\Hypesoft.Domain.deps.json
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\bin\Debug\net8.0\Hypesoft.Domain.dll
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\bin\Debug\net8.0\Hypesoft.Domain.pdb
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\obj\Debug\net8.0\Hypesoft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\obj\Debug\net8.0\Hypesoft.Domain.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\obj\Debug\net8.0\Hypesoft.Domain.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\obj\Debug\net8.0\Hypesoft.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\obj\Debug\net8.0\Hypesoft.Domain.dll
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\obj\Debug\net8.0\refint\Hypesoft.Domain.dll
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\obj\Debug\net8.0\Hypesoft.Domain.pdb
+C:\Users\Ryan\Desktop\desafio hypesoft\Hypesoft.Domain\obj\Debug\net8.0\ref\Hypesoft.Domain.dll
