@@ -1,0 +1,57 @@
+# 🚀 Desafio Técnico – HypeSoft
+
+Este repositório contém a implementação de um desafio técnico, dividido em **front-end** e **back-end**, com comunicação via **API REST**.
+
+O objetivo é demonstrar conhecimentos de desenvolvimento web, arquitetura de software e boas práticas de programação.
+
+---
+
+## 🖥️ Front-end
+- **React + TypeScript**
+- **Next.js** (renderização e rotas)
+- **CSS/Tailwind** (estilização)
+- **Fetch/Axios** (consumo da API)
+
+### Funcionalidades
+- Exibição de produtos e categorias.
+- Interface responsiva e intuitiva.
+- Consumo da API do back-end em tempo real.
+
+---
+
+## ⚙️ Back-end
+- **Node.js**
+- **TypeScript**
+- **Express.js**
+- **Arquitetura em camadas** (controllers, services, entities)
+
+### Funcionalidades
+- API REST para produtos e categorias.
+- Estrutura modular para escalabilidade.
+- Tratamento de erros e boas práticas de código.
+
+---
+
+## 🔗 API
+- **RESTful**  
+- Endpoints principais:
+  - `GET /categories` → lista categorias
+  - `GET /products` → lista produtos
+  - `POST /products` → cria produto
+  - `PUT /products/:id` → atualiza produto
+  - `DELETE /products/:id` → remove produto
+
+---
+
+## 📜 Aviso Legal
+Este projeto foi desenvolvido **exclusivamente** para fins de avaliação técnica.  
+- Todo o código, design e conteúdo presentes neste repositório são **criação original do autor**.  
+- A utilização, reprodução, modificação, distribuição ou comercialização **sem autorização expressa** é proibida e constitui violação da **Lei de Direitos Autorais (Lei nº 9.610/98)**.  
+- Este projeto **não possui licença de uso comercial**.
+
+---
+
+## 👤 Autor
+Desenvolvido por **Ryan Monsores de Oliveira**  
+📧 E-mail: [ryandoliveira@hotmail.com](mailto:ryandoliveira@hotmail.com)  
+💼 LinkedIn: [https://www.linkedin.com/in/ryan-oliveira-2b54092a1/](https://www.linkedin.com/in/ryan-oliveira-2b54092a1/)
